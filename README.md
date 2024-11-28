@@ -1,5 +1,7 @@
 # Chatty_App
 
+![Screenshot 2024-09-19 073013](https://github.com/user-attachments/assets/155d8c69-59ab-4ecf-9834-908792280796)
+
 Some Features:
 
 -   🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
