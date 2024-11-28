@@ -1,5 +1,13 @@
 # Chatty_App
 
+### Demo
+
+
+https://github.com/user-attachments/assets/79618c56-142e-4073-92e9-6e36de0b00ba
+
+
+
+
 ![Screenshot 2024-09-19 073013](https://github.com/user-attachments/assets/155d8c69-59ab-4ecf-9834-908792280796)
 
 Some Features:
